@@ -19,18 +19,9 @@ Responsive UI design for seamless user experience across devices.
 Utilizes  for notifications, React Router DOM for page routing, and FontAwesomeIcon for icons.
 Deployed using GitHub Pages for easy access and sharing.
 
-#Deployment:
+#Getting Started
 
-The website is deployed using GitHub Pages and can be accessed at https://Blacksujit.github.io/Health-Plus/.
-
-Getting Started
-To run the project locally:
-
-Clone this repository: git clone https://github.com/Blacksujit/Health-Plus.git
-Navigate to the project directory: cd Health-Plus
-Install dependencies: npm install
-Start the development server: npm start
-Open your browser and visit: http://localhost:3000/Health-Plus
+to view our website visit -- https://smart-hospital-system.000webhostapp.com/
 
 #Contributors:
 
