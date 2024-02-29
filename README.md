@@ -21,7 +21,7 @@ Deployed using GitHub Pages for easy access and sharing.
 
 #Getting Started
 
-to view our website visit -- https://smart-hospital-system.000webhostapp.com/
+to view our website visit --  https://smart-hospital-management-system.000webhostapp.com/
 
 #Contributors:
 
