@@ -29,10 +29,10 @@ to view our website visit --  https://smart-hospital-management-system.000webhos
 # Contributors:
 
  contributors Names:
- Sujit Nirmal;
- Abhishek Kute;
- Sanskar Awati;
- Manas Kotian;
+1.) Sujit Nirmal
+2.) Abhishek Kute
+3.) Sanskar Awati
+4.) Manas Kotian
  
-#License:
+# License:
  MIT
